@@ -27,6 +27,6 @@ Desarrollo soluciones para empresas:
 
 | **Contacto**               | **Enlaces**                                                                 |
 |----------------------------|-----------------------------------------------------------------------------|
-| 🌐 **Sitio Web**           | [Cefiro Technologies](https://www.cefiro-tech.com)                         |
-| 📧 **Email**               | [cefirotechnologies@gmail.com](mailto:cefirotechnologies@gmail.com)        |
+| 🌐 **Sitio Web**           | [Cefiro Technologies](https://www.cefirotechnologies.com)                         |
+| 📧 **Email**               | [Contactanos!](mailto:cefirotechnologies@gmail.com)        |
 
